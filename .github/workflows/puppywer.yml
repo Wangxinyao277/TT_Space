@@ -1,0 +1,8 @@
+name: Puppy Power
+on: [push]
+jobs:
+  remind_me:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Love
+        run: echo "今今，记得看puppy！"
