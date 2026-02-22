@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=2F2F2F&text=Fit%20Check&fontSize=40&textBg=false&animation=fadeIn&rotate=0&descAlign=51&section=header&fontColor=9e9e9)" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=3d3d3d&text=Fit%20Check&fontSize=40&fontColor=000000" /></div>
 
 # ✨ 这是什么东西 ✨
 
